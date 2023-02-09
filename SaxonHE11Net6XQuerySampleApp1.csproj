@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IKVM.Maven.Sdk" Version="1.3.0-develop0029" />
-	<MavenReference Include="net.sf.saxon:Saxon-HE" version="11.4" />
-	<MavenReference Include="org.xmlresolver:xmlresolver" Version="4.5.1" />
-	<MavenReference Include="org.xmlresolver:xmlresolver" Category="data" Version="4.5.1" />
-    <PackageReference Include="SaxonHE11s9apiExtensions" Version="11.4.0.3" />
+    <PackageReference Include="IKVM.Maven.Sdk" Version="1.4.1" />
+	<MavenReference Include="net.sf.saxon:Saxon-HE" version="11.5" />
+	<!--<MavenReference Include="org.xmlresolver:xmlresolver" Version="4.5.1" />
+	<MavenReference Include="org.xmlresolver:xmlresolver" Category="data" Version="4.5.1" />-->
+    <PackageReference Include="SaxonHE11s9apiExtensions" Version="11.5.0" />
   </ItemGroup>
 
 </Project>
